@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 To be created as an example
+=======
+Updated content in +1 branch in another file
+>>>>>>> G24ait018
